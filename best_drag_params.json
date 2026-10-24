@@ -1,0 +1,32 @@
+{
+  "variant": "p_flash",
+  "params": {
+    "t_lo": 0.22,
+    "t_hi": 0.42,
+    "base_n": 8,
+    "density": 0.02,
+    "accel_lo": 0.28,
+    "accel_hi": 0.4,
+    "peak_lo": 2.0,
+    "peak_hi": 2.5,
+    "wobble": 2.6,
+    "rev_p": 0.0,
+    "micro_slow": 0.03,
+    "hold_lo": 1,
+    "hold_hi": 2,
+    "s_hold_lo": 0.02,
+    "s_hold_hi": 0.05,
+    "settle_lo": 0.008,
+    "settle_hi": 0.018,
+    "pre_clicks": 3,
+    "mid_clicks": 2,
+    "pre_drag": 0.3,
+    "pre_scroll": 0.1,
+    "post_sensor": 1,
+    "no_verify_delay": 1
+  },
+  "rate": 100.0,
+  "avg_drag": 3.62,
+  "avg_acc": 11.0,
+  "generations": 1
+}
